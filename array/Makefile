@@ -1,3 +1,3 @@
 test:
-	gcc ./main.c -o main
-	./main
+	gcc ./src/test.c -o ./bin/test
+	./bin/test
